@@ -1,0 +1,6 @@
+{
+  "name": "Mandiri Pembatalan Transaksi",
+  "description": "Aplikasi pembatalan transaksi Bank Mandiri dengan fitur unggah bukti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
